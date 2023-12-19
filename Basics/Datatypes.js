@@ -23,6 +23,8 @@ let state;
 
 
 // object
-
+console.log(typeof true)//BOOLEAN
+console.log(typeof "nilesh")//STRING
+console.log(typeof 19)//NUMBER
 console.log(typeof undefined); // undefined
 console.log(typeof null); // object
